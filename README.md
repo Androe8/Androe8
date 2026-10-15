@@ -52,7 +52,7 @@
 🎓 Studying Software Engineering.
 
 
-🔭 . ocused on Full Stack Development and Data Engineering/Analytics.
+🔭 Focused on Full Stack Development and Data Engineering/Analytics.
 
 🌱 Currently strengthening my skills in React and NoSQL databases (MongoDB).
 
